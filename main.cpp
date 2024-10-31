@@ -16,7 +16,7 @@ int main(){
 	arr.print();
 	arr.insertAt(7,15);
 	arr.print();
-/*
+
 
 	//arr.remove();
 	//arr.print();
@@ -28,7 +28,7 @@ int main(){
 	arr.print();
 
 	arr.replaceAt(0,9999);
-	arr.print();*/
+	arr.print();
 	cout<<arr.at(8)<<endl;
 
 
